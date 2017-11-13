@@ -7,17 +7,17 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 Here are the data for the project:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-#Variables
+# Variables
 
 Column 1 - SubjectNumber – the numbers for each of the 30 subjects in the study
 
 Column 2 - ActivityName – the physical activities measured from each subject
-•	WALKING
-•	WALKING_UPSTAIRS
-•	WALKING_DOWNSTAIRS
-•	SITTING
-•	STANDING
-•	LAYING
+# WALKING
+# WALKING_UPSTAIRS
+# WALKING_DOWNSTAIRS
+# SITTING
+# STANDING
+# LAYING
 
 Column 3-81 – mean and standard deviations across the various activities by the subjects.
 
