@@ -27,7 +27,8 @@ LAYING
 
 Column 3-81 – mean and standard deviations across the various activities by the subjects.
 
-Clean up process to create a tidy data set using run_analysis.R can be found at https://github.com/edloessime/tidy_data_merging_week4 
+# Clean up process to create a tidy data set using run_analysis.R can be found at https://github.com/edloessime/tidy_data_merging_week4 
+
 1.	Merges the training and the test sets to create one data set.
 2.	Extracts only the measurements on the mean and standard deviation for each measurement.
 3.	Uses descriptive activity names to name the activities in the data set
